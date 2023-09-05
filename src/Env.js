@@ -1,0 +1,1 @@
+export const API_LINK = "https://64cf3e71ffcda80aff51b143.mockapi.io/users/";
